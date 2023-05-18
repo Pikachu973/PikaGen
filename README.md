@@ -21,7 +21,7 @@ Download Link (Latest Version): https://linkvertise.com/172297/UnlimitedDiscordN
 - Script tested + 100% working!
 - Most Advanced Generator!
 - "Ghost" Gen + Checker
-- 500+ Downloads on Linkvertise!
+- 600+ Downloads on Linkvertise!
 - EXTREMELY FAST GENERATOR
 - HIGH HIT RATE
 - PROXY CHECKER
