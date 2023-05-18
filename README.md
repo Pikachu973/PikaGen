@@ -36,7 +36,10 @@ FAQ:
 3. Is it a virus/malware? No, you can upload it on virustotal to check.
 ![Screenshot 2023-05-18 at 5 52 50 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/716c7131-c82f-4cd8-bf4d-9f4324484383)
 
-4. Is there support? No.
+4. Is there support? Yes, you can contact me on Discord, and ill reply when im free :)
+
+Discord: ! PikaTheCutest#4514
+
 
 5. Updates? Yes.
 
