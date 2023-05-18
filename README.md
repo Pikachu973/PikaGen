@@ -20,11 +20,25 @@ Download Link (Latest Version): https://linkvertise.com/172297/UnlimitedDiscordN
 **Why should you use PikaGen?**
 - Script tested + 100% working!
 - Most Advanced Generator!
-- "Ghost" Gen + Checker
+- "Ghost" Gen + Proxy Checker
 - 600+ Downloads on Linkvertise!
 - EXTREMELY FAST GENERATOR
 - HIGH HIT RATE
 - PROXY CHECKER
+
+---
+
+FAQ:
+1. How to setup? Download the file and unzip it. Then move the folder to anywhere you want, and to setup the bot you will need to read the **MUST READ.txt** and setup according to the instructions or it will not work!
+
+2. Is this free to use? Yes
+
+3. Is it a virus/malware? No, you can upload it on virustotal to check.
+![Screenshot 2023-05-18 at 5 52 50 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/716c7131-c82f-4cd8-bf4d-9f4324484383)
+
+4. Is there support? No.
+
+5. Updates? Yes.
 
 ---
 
