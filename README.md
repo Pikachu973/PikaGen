@@ -3,7 +3,11 @@ Welcome to *PikaGen*! PikaGen is the fastest and the most advanced Discord Nitro
 
 Download Link (Latest Version): https://link-target.net/172297/UnlimitedDiscordNitroCodesGen
 
+---
+
 Latest Version: V2.3
+
+Last Updated Date: 19/05/2023
 
 **Change Log:**
 - Now works on Windows(os)! (originally only for Mac & Linux)
