@@ -29,6 +29,7 @@ Latest Version: V2.3
 
 **Why should you use PikaGen?**
 - Script tested + 100% working!
+- Works on Mac, Linux, and Windows Operating Systems!
 - Most Advanced Generator!
 - "Ghost" Gen + Proxy Checker
 - 600+ Downloads on Linkvertise!
