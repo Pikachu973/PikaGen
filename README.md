@@ -57,7 +57,7 @@ FAQ:
 
 4. Is there support? Yes, you can contact me on Discord, and ill reply when im free :)
 
-   Discord: ! PikaTheCutest#4514
+   Discord: Coming Soon
 
 
 5. Updates? Yes.
