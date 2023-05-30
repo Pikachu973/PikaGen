@@ -3,18 +3,21 @@ Welcome to *PikaGen*! PikaGen is the fastest and the most advanced Discord Nitro
 
 Download Link (Latest Version): https://link-target.net/172297/UnlimitedDiscordNitroCodesGen
 
-![Screenshot 2023-05-20 at 1 55 30 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/1c899a52-9cb6-4649-bd0b-cd975d53846e)
+![Screenshot 2023-05-30 at 7 33 57 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/acab73fe-b0bf-4ef5-b2a3-68013b5032d7)
+![Screenshot 2023-05-30 at 7 37 36 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/ec4f1e44-7977-4584-85e8-8ea67afcc6d4)
 
 P.S. If you like it, please star this project :)
 
 ---
 
-Latest Version: V2.3
+Latest Version: V2.4
 
-Last Updated Date: 19/05/2023
+Last Updated Date: 30/05/2023
 
 **Change Log:**
-- Now works on Windows(os)! (originally only for Mac & Linux)
+- Customise Amount of Threads (The more threads, the faster the gen+checker!)
+- Removed Valid, Invalid, and TotalCodes Counter
+- Shows on console when your rate limited, the proxy is invalid, and also shows every nitro code generated (valid/invalid/unchecked)
 - Bug Fixes
 
 ---
@@ -28,8 +31,8 @@ Last Updated Date: 19/05/2023
 **Features:**
 - Generate Discord Nitro Codes (any amount)
 - Proxy Checker
-- "Ghost" Gen + Checker
-  * will automatically put hits and unchecked codes in a txt file
+- Advanced and Fully Customizable
+- Unlimited Gen + Proxy Checker
  
 **NOTE: If you download the gen bot directly from this Github project, some of these features may not be available, and the bot is not up-to-date. The latest version can be found on Linkvertise only.**
 
@@ -58,7 +61,6 @@ FAQ:
 4. Is there support? Yes, you can contact me on Discord, and ill reply when im free :)
 
    Discord: Coming Soon
-
 
 5. Updates? Yes.
 
