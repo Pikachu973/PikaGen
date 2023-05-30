@@ -30,6 +30,7 @@ Last Updated Date: 19/05/2023
 - Proxy Checker
 - "Ghost" Gen + Checker
   * will automatically put hits and unchecked codes in a txt file
+ 
 **NOTE: If you download the gen bot directly from this Github project, some of these features may not be available, and the bot is not up-to-date. The latest version can be found on Linkvertise only.**
 
 ---
