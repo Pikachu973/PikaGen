@@ -43,8 +43,9 @@ Last Updated Date: 30/05/2023
 **Why should you use PikaGen?**
 - Script tested + 100% working!
 - Works on Mac, Linux, and Windows Operating Systems!
+- Free to download & use!
 - Most Advanced Generator! (auto put valid/unchecked codes into txt file)
-- "Ghost" Gen + Proxy Checker
+- Nitro Gen + Proxy Checker
 - 600+ Downloads on Linkvertise!
 - EXTREMELY FAST GENERATOR
 - HIGH HIT RATE
