@@ -18,6 +18,7 @@ Last Updated Date: 30/05/2023
 - Customise Amount of Threads (The more threads, the faster the gen+checker!)
 - Removed Valid, Invalid, and TotalCodes Counter
 - Shows on console when your rate limited, invalid proxy, and also shows every nitro code generated (valid/invalid/unchecked)
+- New Http/Https Proxy Format
 - Bug Fixes
 
 ---
