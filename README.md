@@ -30,7 +30,6 @@ Last Updated Date: 19/05/2023
 - Proxy Checker
 - "Ghost" Gen + Checker
   * will automatically put hits and unchecked codes in a txt file
-  * shows valid/invalid/total nitro codes generated in console
 **NOTE: If you download the gen bot directly from this Github project, some of these features may not be available, and the bot is not up-to-date. The latest version can be found on Linkvertise only.**
 
 ---
@@ -38,7 +37,7 @@ Last Updated Date: 19/05/2023
 **Why should you use PikaGen?**
 - Script tested + 100% working!
 - Works on Mac, Linux, and Windows Operating Systems!
-- Most Advanced Generator!
+- Most Advanced Generator! (auto put valid/unchecked codes into txt file)
 - "Ghost" Gen + Proxy Checker
 - 600+ Downloads on Linkvertise!
 - EXTREMELY FAST GENERATOR
