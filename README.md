@@ -20,6 +20,7 @@ Last Updated Date: 30/05/2023
 - Shows on console when your rate limited, invalid proxy, and also shows every nitro code generated (valid/invalid/unchecked)
 - New Http/Https Proxy Format
 - Bug Fixes
+- Updated `MUST READ.txt` file, please read it :)
 
 ---
 
