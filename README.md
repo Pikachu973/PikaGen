@@ -4,23 +4,28 @@ Welcome to *PikaGen*! PikaGen is the fastest and the most advanced Discord Nitro
 Download Link (Latest Version): https://link-target.net/172297/UnlimitedDiscordNitroCodesGen
 
 ![Screenshot 2023-05-30 at 7 33 57 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/acab73fe-b0bf-4ef5-b2a3-68013b5032d7)
-![Screenshot 2023-05-30 at 7 37 36 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/ec4f1e44-7977-4584-85e8-8ea67afcc6d4)
+![Screenshot 2023-05-31 at 9 01 44 AM](https://github.com/Pikachu973/PikaGen/assets/78415791/e772606b-b400-4029-9794-642b8bda5945)
 
 P.S. If you like it, please star this project :)
 
 ---
 
-Latest Version: V2.4
+Latest Version: V2.5
 
-Last Updated Date: 30/05/2023
+Last Updated Date: 31/05/2023
 
 **Change Log:**
-- Customise Amount of Threads (The more threads, the faster the gen+checker!)
-- Removed Valid, Invalid, and TotalCodes Counter
-- Shows on console when your rate limited, invalid proxy, and also shows every nitro code generated (valid/invalid/unchecked)
-- New Http/Https Proxy Format
+- Added Valid, Invalid, Codes Generated, Invalid Proxy, and Rate Limited Counter! (shown on console)
+
+(valid, invalid, totalcodes counter was removed in V2.4)
+
+
+- No longer shows generated codes on console.
+
+(will still automatically put valid / unchecked codes in txt file)
+
+
 - Bug Fixes
-- Updated `MUST READ.txt` file, please read it :)
 
 ---
 
@@ -61,8 +66,10 @@ FAQ:
 3. Is it a virus/malware? No, you can upload it on virustotal to check.
 ![Screenshot 2023-05-18 at 5 52 50 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/716c7131-c82f-4cd8-bf4d-9f4324484383)
 
-4. Is there support? Yes, you can contact me on Discord, and ill reply when im free :)
+4. Is there support? Yes, ill reply when im free :)
 
+   Support: [PikaGen - Discussions](https://github.com/Pikachu973/PikaGen/discussions)
+   
    Discord: Coming Soon
 
 5. Updates? Yes.
