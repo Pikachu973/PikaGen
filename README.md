@@ -74,7 +74,7 @@ FAQ:
 
 5. Updates? Yes.
 
-6. Suggested amount of threads? Using more threads will make the gen+checker more faster. But using too much threads will cause rate limits, and your proxies could get banned. If you don't want to constantly get rate limited or get your proxies banned, you should only use **100 threads max**!
+6. Suggested amount of threads? Using more threads will make the gen+checker more faster. But using too much threads will cause more rate limits, and your proxies could get banned. If you don't want to constantly get rate limited or get your proxies banned, you should only use **100 threads max**!
 
 ---
 
