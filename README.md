@@ -6,7 +6,7 @@ Download Link (Latest Version): https://link-target.net/172297/UnlimitedDiscordN
 ![Screenshot 2023-05-30 at 7 33 57 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/acab73fe-b0bf-4ef5-b2a3-68013b5032d7)
 ![Screenshot 2023-05-31 at 9 01 44 AM](https://github.com/Pikachu973/PikaGen/assets/78415791/e772606b-b400-4029-9794-642b8bda5945)
 
-P.S. If you like it, please star this project :)
+P.S. This project is free-to-download, and to continue to keep it free, please consider supporting us. You can support us, by clicking the `Star` button for this project.
 
 ---
 
