@@ -70,7 +70,7 @@ FAQ:
 
    Support: [PikaGen - Discussions](https://github.com/Pikachu973/PikaGen/discussions)
    
-   Discord: Coming Soon
+   Discord: SleepyPika#2017
 
 5. Updates? Yes.
 
