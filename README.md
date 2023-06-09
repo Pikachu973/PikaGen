@@ -49,7 +49,7 @@ Last Updated Date: 31/05/2023
 - Script tested + 100% working!
 - Works on Mac, Linux, and Windows Operating Systems!
 - Free to download & use!
-- 700+ Views on Github!
+- 800+ Views on Github!
 - Most Advanced Generator! (auto put valid/unchecked codes into txt file)
 - Nitro Gen + Proxy Checker
 - EXTREMELY FAST GENERATOR
