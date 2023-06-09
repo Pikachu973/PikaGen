@@ -51,7 +51,6 @@ Last Updated Date: 31/05/2023
 - Free to download & use!
 - Most Advanced Generator! (auto put valid/unchecked codes into txt file)
 - Nitro Gen + Proxy Checker
-- 600+ Downloads on Linkvertise!
 - EXTREMELY FAST GENERATOR
 - HIGH HIT RATE
 - PROXY CHECKER
