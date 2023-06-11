@@ -27,6 +27,8 @@ Last Updated Date: 31/05/2023
 
 - Bug Fixes
 
+- Updated credits.txt
+
 ---
 
 **PLEASE NOTE:**
