@@ -34,7 +34,7 @@ Last Updated Date: 31/05/2023
 **PLEASE NOTE:**
 1. Versions posted on this Github project are not the latest, only past versions are posted on github!
 2. Only V2.3 or above will work on Windows, Mac, and Linux! (any previous versions only work on Mac & Linux)
-3. Please note that my discord username may change, due to many different reasons. And the credits.txt may or may not be updated.
+3. Please note that my Discord username may change, due to many different reasons. And the credits.txt may or may not be updated.
 
 ---
 
