@@ -1,0 +1,17 @@
+MUST READ AND FOLLOW ALL STEPS, OR IT WILL NOT WORK!!
+MUST READ AND FOLLOW ALL STEPS, OR IT WILL NOT WORK!!
+MUST READ AND FOLLOW ALL STEPS, OR IT WILL NOT WORK!!
+
+
+Step 1. You must open pikagen.py and find the line that contains `folder_path = "/Users/bai/Desktop/PikaGen" #CHANGE THIS TO YOUR OWN DIRECTORY!` and you will need to change that folder directory to your folder directory!
+Step 2. You must install requirements.txt in a terminal or command prompt window.
+Step 3. Put Valid/Working HTTP/HTTPS Proxies in `proxy.txt`! Must use format (IP:Port) and new line for each individual proxy.
+(skip step 3 if u dont use checker!)
+Step 4. Run the python script pikagen.py!
+
+NOTE: 
+1. DO NOT PUT DEAD/INVALID PROXIES INTO proxy.txt!
+2. YOU CAN PUT PikaGen FOLDER ANYWHERE, JUST MAKE SURE TO CHANGE THE DIRECTORY (CHECK STEP 1), AND DO NOT DELETE / MOVE ANYTHING OUT OF THIS FOLDER OR IT WILL NOT WORK!
+3. CHECKER WILL NOT WORK IF YOU DO NOT PUT VALID HTTP/HTTPS PROXIES IN THE proxy.txt FILE!
+4. IF YOU DID NOT USE THE CHECKER, THE UNCHECKED DISCORD NITRO CODES WILL BE AUTOMATICALLY PUT IN unchecked.txt FILE!
+5. ALL HITS WILL BE AUTOMATICALLY PUT IN hit.txt FILE!
