@@ -69,8 +69,6 @@ FAQ:
 ![Screenshot 2023-05-18 at 5 52 50 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/716c7131-c82f-4cd8-bf4d-9f4324484383)
 
 4. Is there support? Yes, ill reply when im free :)
-
-   Support: [PikaGen - Discussions](https://github.com/Pikachu973/PikaGen/discussions)
    
    Discord: SleepyPika#2017
 
