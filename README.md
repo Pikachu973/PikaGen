@@ -70,7 +70,7 @@ FAQ:
 
 4. Is there support? Yes, ill reply when im free :)
    
-   Discord: SleepyPika#2017
+   Discord: @sleepypika1
 
 5. Updates? Yes.
 
