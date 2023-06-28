@@ -71,10 +71,11 @@ FAQ:
 4. Is there support? Yes, ill reply when im free :)
    
    Discord: @sleepypika1
+   (p.s. no installation support, as all instructions are written clearly in the `MUST READ.txt` file.)
 
-5. Updates? Yes.
+6. Updates? Yes.
 
-6. Suggested amount of threads? Using more threads will make the gen+checker more faster. But using too much threads will cause more rate limits, and your proxies could get banned. If you don't want to constantly get rate limited or get your proxies banned, you should only use **100 threads max**!
+7. Suggested amount of threads? Using more threads will make the gen+checker more faster. But using too much threads will cause more rate limits, and your proxies could get banned. If you don't want to constantly get rate limited or get your proxies banned, you should only use **100 threads max**!
 
 ---
 
