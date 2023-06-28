@@ -69,10 +69,11 @@ FAQ:
 ![Screenshot 2023-05-18 at 5 52 50 PM](https://github.com/Pikachu973/PikaGen/assets/78415791/716c7131-c82f-4cd8-bf4d-9f4324484383)
 
 4. Is there support? Yes, ill reply when im free :)
+
+   (p.s. no installation support, as all instructions are written clearly in the `MUST READ.txt` file.)
    
    Discord: @sleepypika1
-   (p.s. no installation support, as all instructions are written clearly in the `MUST READ.txt` file.)
-
+   
 6. Updates? Yes.
 
 7. Suggested amount of threads? Using more threads will make the gen+checker more faster. But using too much threads will cause more rate limits, and your proxies could get banned. If you don't want to constantly get rate limited or get your proxies banned, you should only use **100 threads max**!
